@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.3.0",
+    "version": "1.0.3",
     "date": "2025-07-23",
     "title": "ITGlue Integration and Local Cache",
     "details": [
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "version": "1.2.0",
+    "version": "1.0.2",
     "date": "2025-07-21",
     "title": "2FA and User Profile Enhancements",
     "details": [
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "version": "1.1.0",
+    "version": "1.0.1",
     "date": "2025-07-19",
     "title": "Settings and Internal Login System",
     "details": [
