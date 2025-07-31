@@ -1,5 +1,21 @@
 [
   {
+    "version": "1.0.4",
+    "date": "2025-07-31",
+    "title": "Agent Download, Customer Deletion and Language Updates",
+    "details": [
+      "Added global agent download link in header for all users.",
+      "Agent download opens a modal with installation instructions for placing files in Program Files and running install.ps1.",
+      "New ALLOW_CUSTOMER_DELETE setting in settings.php to control customer deletion.",
+      "Delete customer button added in customers.php (only visible if deletion is allowed).",
+      "Backup system now stores files in private/backups and checks path security before download.",
+      "Import/Export page now requires admin access.",
+      "All major views updated to use language system (lang files).",
+      "Improved ITGlue linking UI in customer config.",
+      "Various UI improvements in dark mode."
+    ]
+  },
+  {
     "version": "1.0.3",
     "date": "2025-07-23",
     "title": "ITGlue Integration and Local Cache",
