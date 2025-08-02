@@ -1,0 +1,12 @@
+{
+  "latest": "1.6",
+  "changelog": {
+    "1.6": "Security fix and performance improvements.",
+    "1.5": "Added debug mode and improved logging.",
+    "1.4": "Initial stable release."
+  },
+  "files": {
+    "windows": "https://raw.githubusercontent.com/Diablo925/easyipam/main/public/agent/ipam_agent.zip",
+    "linux": "https://raw.githubusercontent.com/Diablo925/easyipam/main/public/agent/ipam-agent.deb"
+  }
+}
