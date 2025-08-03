@@ -1,6 +1,7 @@
 {
-  "latest": "1.6",
+  "latest": "1.7",
   "changelog": {
+    "1.7": "Add Unifi support and small fixes",
     "1.6": "Security fix and performance improvements.",
     "1.5": "Added debug mode and improved logging.",
     "1.4": "Initial stable release."
